@@ -12,7 +12,7 @@ st.set_page_config(
 st.markdown("""
 <style>
     .stApp {
-        background-color:rgb(174, 234, 148) !important;
+        background-color:rgb(247, 44, 91) !important;
     }
     .main-title {
         font-size: 4rem;
